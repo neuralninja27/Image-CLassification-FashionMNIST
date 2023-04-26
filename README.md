@@ -1,1 +1,1 @@
-# Image-CLassification-FashionMNIST
+# Image-Classification-FashionMNIST
